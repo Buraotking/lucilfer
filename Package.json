@@ -1,8 +1,8 @@
 {
-    "name": "Lucilfer",
+    "name": "BuraotKing",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "Lucilfer.js",
+    "main": "BuraotKing.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Lucilfer/lucilfer.git"
+        "url": "git+https://github.com/Buraotking.git"
     },
-    "author": "Lucilfer",
+    "author": "BuraotKing",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
